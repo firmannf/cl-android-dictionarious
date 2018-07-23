@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Dictionarious</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text_en_to_id">EN ➝ ID</string>
+    <string name="text_id_to_en">ID ➝ EN</string>
+    <string name="text_menu_about">About</string>
+    <string name="text_loading">Loading...</string>
+</resources>
